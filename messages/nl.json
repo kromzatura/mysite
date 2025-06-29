@@ -1,0 +1,13 @@
+{
+  "Navigation": {
+    "home": "Home",
+    "about": "Over ons",
+    "products": "Producten",
+    "contact": "Contact"
+  },
+  "HomePage": {
+    "title": "Welkom bij LAR Group B.V.",
+    "subtitle": "Professionele groothandel in zaden en granen",
+    "description": "Wij zijn gespecialiseerd in B2B-levering van hoogwaardige zaden en granen voor agrarische en commerciële doeleinden."
+  }
+}
