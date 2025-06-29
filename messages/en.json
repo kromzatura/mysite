@@ -1,13 +1,25 @@
 {
-  "Navigation": {
-    "home": "Home",
-    "about": "About",
-    "products": "Products",
-    "contact": "Contact"
-  },
   "HomePage": {
     "title": "Welcome to LAR Group B.V.",
     "subtitle": "Professional wholesale of seeds and grains",
     "description": "We specialize in B2B supply of high-quality seeds and grains for agricultural and commercial purposes."
+  },
+  "Footer": {
+    "home": "Home",
+    "about": "About",
+    "products": "Products",
+    "quality": "Quality & Certifications",
+    "contact": "Contact",
+    "description": "Since 2009, we specialize in B2B supply of high-quality seeds and grains for agricultural and commercial purposes.",
+    "certifications": "Certifications",
+    "quickLinks": "Quick Links",
+    "contactInfo": "Contact Information",
+    "businessHours": "Business Hours",
+    "mondayFriday": "Mon - Fri: 08:00 - 17:00",
+    "weekend": "Sat - Sun: Closed",
+    "allRights": "All rights reserved.",
+    "founded": "Founded in 2009",
+    "privacyPolicy": "Privacy Policy",
+    "terms": "Terms of Service"
   }
 }

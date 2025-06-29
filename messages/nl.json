@@ -1,13 +1,25 @@
 {
-  "Navigation": {
-    "home": "Home",
-    "about": "Over ons",
-    "products": "Producten",
-    "contact": "Contact"
-  },
   "HomePage": {
     "title": "Welkom bij LAR Group B.V.",
     "subtitle": "Professionele groothandel in zaden en granen",
     "description": "Wij zijn gespecialiseerd in B2B-levering van hoogwaardige zaden en granen voor agrarische en commerciële doeleinden."
+  },
+  "Footer": {
+    "home": "Home",
+    "about": "Over ons",
+    "products": "Producten",
+    "quality": "Kwaliteit & Certificeringen",
+    "contact": "Contact",
+    "description": "Sinds 2009 zijn wij gespecialiseerd in B2B-levering van hoogwaardige zaden en granen voor agrarische en commerciële doeleinden.",
+    "certifications": "Certificeringen",
+    "quickLinks": "Snelle Links",
+    "contactInfo": "Contact Informatie",
+    "businessHours": "Openingstijden",
+    "mondayFriday": "Ma - Vr: 08:00 - 17:00",
+    "weekend": "Za - Zo: Gesloten",
+    "allRights": "Alle rechten voorbehouden.",
+    "founded": "Opgericht in 2009",
+    "privacyPolicy": "Privacybeleid",
+    "terms": "Voorwaarden"
   }
 }

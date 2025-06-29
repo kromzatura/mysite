@@ -3,6 +3,7 @@ import {getMessages} from 'next-intl/server';
 import type { Metadata } from 'next';
 import { Geist, Geist_Mono } from 'next/font/google';
 import '../globals.css';
+import Footer from '@/components/Footer';
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -16,7 +17,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "LAR Group B.V. - Professional Seeds & Grains",
-  description: "Professional B2B wholesale of high-quality seeds and grains",
+  description: "Professional B2B wholesale of high-quality seeds and grains for agricultural and commercial purposes.",
 };
 
 export default async function LocaleLayout({
@@ -33,7 +34,12 @@ export default async function LocaleLayout({
     <html lang={locale}>
       <body className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
         <NextIntlClientProvider messages={messages}>
-          {children}
+          <div className="min-h-screen flex flex-col">
+            <main className="flex-1">
+              {children}
+            </main>
+            <Footer />
+          </div>
         </NextIntlClientProvider>
       </body>
     </html>
