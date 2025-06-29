@@ -4,6 +4,15 @@
     "subtitle": "Professional wholesale of seeds and grains",
     "description": "We specialize in B2B supply of high-quality seeds and grains for agricultural and commercial purposes."
   },
+  "Navigation": {
+    "home": "Home",
+    "about": "About",
+    "products": "Products", 
+    "quality": "Quality & Certifications",
+    "blog": "Blog",
+    "faq": "FAQ",
+    "contact": "Contact"
+  },
   "Footer": {
     "home": "Home",
     "about": "About",

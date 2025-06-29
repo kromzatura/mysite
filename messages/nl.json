@@ -4,6 +4,15 @@
     "subtitle": "Professionele groothandel in zaden en granen",
     "description": "Wij zijn gespecialiseerd in B2B-levering van hoogwaardige zaden en granen voor agrarische en commerciële doeleinden."
   },
+  "Navigation": {
+    "home": "Home",
+    "about": "Over ons", 
+    "products": "Producten",
+    "quality": "Kwaliteit & Certificeringen",
+    "blog": "Blog",
+    "faq": "FAQ",
+    "contact": "Contact"
+  },
   "Footer": {
     "home": "Home",
     "about": "Over ons",
