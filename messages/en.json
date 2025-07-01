@@ -1,17 +1,25 @@
 {
-  "HomePage": {
-    "title": "Welcome to LAR Group B.V.",
-    "subtitle": "Professional wholesale of seeds and grains",
-    "description": "We specialize in B2B supply of high-quality seeds and grains for agricultural and commercial purposes."
-  },
   "Navigation": {
     "home": "Home",
     "about": "About",
-    "products": "Products", 
-    "quality": "Quality & Certifications",
+    "products": "Products",
     "blog": "Blog",
+    "quality": "Quality & Certifications",
     "faq": "FAQ",
     "contact": "Contact"
+  },
+  "HomePage": {
+    "title": "Welcome to LAR Group B.V.",
+    "subtitle": "Professional wholesale of seeds and grains",
+    "description": "We specialize in B2B supply of high-quality seeds and grains for agricultural and commercial purposes.",
+    "heroTitle": "Premium Wholesale Seeds and Grains for B2B Customers",
+    "heroSubtitle": "We specialize in the B2B supply of high-quality seeds and grains for agricultural and commercial purposes.",
+    "heroCta": "Request a Quote"
+  },
+  "Common": {
+    "readMore": "Read more",
+    "contactUs": "Contact us",
+    "getQuote": "Get quote"
   },
   "Footer": {
     "home": "Home",
